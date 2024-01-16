@@ -10,7 +10,7 @@ class UserProfileScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.grey.shade300,
       appBar: AppBar(
-        title: const Text("User profile"),
+        title: const Text("User profile screen"),
         centerTitle: true,
       ),
       body: const SingleChildScrollView(
